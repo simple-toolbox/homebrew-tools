@@ -3,7 +3,7 @@ class SimpleChatgpt < Formula
   homepage "https://github.com/simple-toolbox/simple-chatgpt"
   license "MIT"
   url "https://github.com/simple-toolbox/simple-chatgpt/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "c2094611d376fd61f3a52438a49d62fe55e71d6823c6b9ed842c226a81b8ad9a"
+  sha256 "2e0770c9cbc76cb88bd2d0f67bc04bbb839e1c54a7ee2c036f980c1974499d4a"
   version "0.2.0"
   head "https://github.com/simple-toolbox/simple-chatgpt.git", branch: "main"
 
