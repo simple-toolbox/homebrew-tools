@@ -3,8 +3,8 @@ class SimpleWhisper < Formula
   homepage "https://github.com/simple-toolbox/simple-whisper"
   license "MIT"
   url "https://github.com/simple-toolbox/simple-whisper/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "df4053ec9a1cb62d12e3e9fc58361ea5903b33f1fdf15aa2a616714f85294cf3"
-  version "0.1.0"
+  sha256 "8a44e331b52dcbad6d6c6f8f32eb6cabfb2c6776e31fc9b85c417960a3f636d7"
+  version "0.2.0"
   head "https://github.com/simple-toolbox/simple-whisper.git", branch: "main"
 
   depends_on "ffmpeg"
